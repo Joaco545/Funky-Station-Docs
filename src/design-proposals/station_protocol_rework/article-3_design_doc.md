@@ -108,6 +108,3 @@ They will be enforced by certain positions on the station being encouraged to pr
 # Technical Considerations
 **1.** Are there any anticipated performance impacts?
 No.
-
-**2.** Does the feature require new systems, UI elements, or refactors of existing ones?
-Yes, however there are other design documents being made for those changes, and is out of the scope of this document. However, it will require changes to the guidebook and the addition and change of books that exist as items.
